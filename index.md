@@ -2,8 +2,8 @@
 **Half-day workshop materials**
 
 
+<img src="https://github.com/JasonJWilliamsNY/cyverse_mcbios_workshop/blob/master/img/cyverse_rgb.png" alt="cyverselogo" style="width:1135px;height:247px;">
 
-![](https://github.com/JasonJWilliamsNY/cyverse_mcbios_workshop/blob/master/img/cyverse_rgb.png)
 ## Welcome to CyVerse!
 
 **CyVerse Vision:** Transforming science through data-driven discovery.
