@@ -1,35 +1,33 @@
-#Data upload - Import your data using Cyberduck
+# Get Started with CyVerse
+**Half-day workshop materials**
+
+## Welcome to CyVerse!
+
+**CyVerse Vision:** Transforming science through data-driven discovery.
+**CyVerse Mission:** Design, deploy, and expand a national cyberinfrastructure for life sciences research and train scientists in its use.
+
+CyVerse provides life scientists with powerful computational infrastructure to handle huge datasets and complex analyses, thus enabling data-driven discovery. Our powerful extensible platforms provide data storage, bioinformatics tools, image analyses, cloud services, APIs, and more.
+
+CyVerse is of, by, and for the community, and community-driven needs shape our mission. We rely on your feedback to provide the infrastructure you need most to advance your science, development, and educational agenda.
+
+While originally created with the name iPlant Collaborative to serve U.S. plant science communities, CyVerse cyberinfrastructure is germane to all life sciences disciplines and works equally well on data from plants, animals, or microbes. By democratizing access to supercomputing capabilities, we provide a crucial resource to enable scientists to find solutions for the future.
+
+## Getting Started Guide
+
+In this guide we will cover brief tutorials and documentation that will get you started using CyVerse tools and services right away. These tutorials will focus on 5 major applications and resources. 
+
+* [Account creation and setup](./cyverse_account_creation.md)
+* [Uploading and importing, and managing data]()
+* [Using Discovery Environment (web-interface to data, tools, and analysis]()
+* [Using Atmosphere cloud computing]()
+* [Understanding CyVerse help resources and policies]()
+
+Importantly, we **will not** cover some other key cyberinfrastructure components but you should be aware of them:
+
+* [Managing images with BISQUE]()
+* [Classroom-friendly bioinformatics with DNA Subway]()
+* [Developers resources with Agave API]()
 
 
-**Cyberduck – The easiest way to get your data uploaded to CyVerse**
 
-There are several methods to get data into the CyVerse data store. In
-this packet, we will only cover Cyberduck – a user-friendly standalone
-application that can serve the majority of use cases for the majority of
-users. Feel free to upload any data you wish to analyze, especially in
-the context of the workshop. If you don’t have sample data, just upload
-any document as a test.
-
-> **Note:** If you prefer to use command line interfaces to the data
-> store, see the iCommands documentation on the iPlant Learning Center
-> or Wiki. Try installing and configuring iCommands and doing some
-> simple data transfers. More details will be covered at the workshop.
-
-
-
-*Transferring Data with Cyberduck*
-
-1. Download a) Cyberduck version for your operating system (Windows,
-    Mac) and b) the iPlant Data Store Cyberduck profile – see the links
-    at: **http://www.iplantc.org/cd1**
-2. Follow the instructions at the link above to finish configuring
-    Cyberduck and loading the iPlant Data Store (iRODS) profile.
-3.  Double click on *data.iplantcollaborative.org – iRODS* bookmark; in
-    about one minute you will connect to the Data Store. You will see
-    listing of all the files currently stored in your iPlant Data Store
-    home directory (see sidebar screenshot).
-4.  To upload – Drag file(s) or folder(s) you wish to transfer into your
-    iPlant Data Store.
-5.  To download – select the file(s) or folder(s) in your iPlant Data
-    Store and drag them to a location on your local computer.
-
+###### Edit these materials at:
