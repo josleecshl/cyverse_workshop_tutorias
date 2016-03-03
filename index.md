@@ -20,7 +20,7 @@ While originally created with the name iPlant Collaborative to serve U.S. plant 
 In this guide we will cover brief tutorials and documentation that will get you started using CyVerse tools and services right away. These tutorials will focus on 5 major applications and resources. 
 
 * [Account creation and setup](./cyverse_account_creation.md)
-* [Uploading and importing, and managing data]()
+* [Uploading, importing, and managing data](./cyverse_importing_data.md)
 * [Using Discovery Environment (web-interface to data, tools, and analysis]()
 * [Using Atmosphere cloud computing]()
 * [Understanding CyVerse help resources and policies]()
