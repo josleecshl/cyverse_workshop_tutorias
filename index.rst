@@ -1,5 +1,16 @@
+.. mcbios-documentation documentation master file, created by
+   sphinx-quickstart on Thu Mar  3 15:44:49 2016.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
 Get Started with CyVerse
 ========================
+
+Contents:
+
+.. toctree::
+   :maxdepth: 2
+
 
 **Half-day workshop materials**
 
@@ -53,3 +64,13 @@ Edit these materials at:
                         
 
 .. |image0| image:: https://github.com/JasonJWilliamsNY/cyverse_mcbios_workshop/blob/master/img/cyverse_rgb.png
+
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
+
