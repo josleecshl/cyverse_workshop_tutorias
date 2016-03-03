@@ -1,6 +1,9 @@
 # Get Started with CyVerse
 **Half-day workshop materials**
 
+
+
+![](./img/cyverse_rgb.png)
 ## Welcome to CyVerse!
 
 **CyVerse Vision:** Transforming science through data-driven discovery.

@@ -5,9 +5,9 @@ A key feature of CyVerse cyberinfrastructure is that one set of credentials (you
 > **Note:** During the transition from iPlant Collaborative to CyVerse, you will see platforms independently being updated with new logos and color schemes. No actions are required on your part; these changes will not alter system functionalities. 
 
 
-## Sign up for a CyVerse Account
+## Sign up from user portal
 
-1. Visit the user portal at: http://user.iplantcollaborative.org/
+1. Visit the user portal at: [http://user.iplantcollaborative.org/](http://user.iplantcollaborative.org/)
 2. Register for a CyVerse account
 3. Check your email for an account confirmation link and follow the confirmation instructions. 
 
