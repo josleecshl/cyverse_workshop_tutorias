@@ -3,7 +3,7 @@
 
 
 
-![](./img/cyverse_rgb.png)
+![](https://github.com/JasonJWilliamsNY/cyverse_mcbios_workshop/blob/master/img/cyverse_rgb.png)
 ## Welcome to CyVerse!
 
 **CyVerse Vision:** Transforming science through data-driven discovery.
