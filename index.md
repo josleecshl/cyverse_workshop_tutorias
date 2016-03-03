@@ -2,7 +2,7 @@
 **Half-day workshop materials**
 
 
-<img src="https://github.com/JasonJWilliamsNY/cyverse_mcbios_workshop/blob/master/img/cyverse_rgb.png" alt="cyverselogo" style="width:1135px;height:247px;">
+<img src="https://github.com/JasonJWilliamsNY/cyverse_mcbios_workshop/blob/master/img/cyverse_rgb.jpg" style="width:1135px;height:247px;">
 
 ## Welcome to CyVerse!
 
