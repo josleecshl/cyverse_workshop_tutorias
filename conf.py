@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 #
 # mcbios-documentation documentation build configuration file, created by
-# sphinx-quickstart on Thu Mar  3 15:44:49 2016.
+# sphinx-quickstart on Thu Mar  3 15:54:44 2016.
 #
 # This file is execfile()d with the current directory set to its
 # containing dir.
@@ -44,7 +44,7 @@ source_suffix = '.rst'
 #source_encoding = 'utf-8-sig'
 
 # The master toctree document.
-master_doc = 'inex'
+master_doc = 'index'
 
 # General information about the project.
 project = 'mcbios-documentation'
