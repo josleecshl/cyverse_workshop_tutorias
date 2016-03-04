@@ -18,17 +18,23 @@ While originally created with the name iPlant Collaborative to serve U.S. plant 
 
 In this guide we will cover brief tutorials and documentation that will get you started using CyVerse tools and services right away. These tutorials will focus on 5 major applications and resources. 
 
-* [Account creation and setup](./cyverse_account_creation.md)
-* [Uploading, importing, and managing data](./cyverse_importing_data.md)
-* [Using Discovery Environment (web-interface to data, tools, and analysis)](./cyverse_analyzing_data_with_Discovery_Environment.md)
-* [Using Atmosphere cloud computing](./cyverse_cloud_computing_with_Atmosphere.md)
-* [Understanding CyVerse help resources and policies]()
+* [Account creation and setup](./01_cyverse_account_creation.md)
+* [Uploading, importing, and managing data](./02_cyverse_importing_data.md)
+* [Using Discovery Environment (web-interface to data, tools, and analysis)](./03_cyverse_analyzing_data_with_Discovery_Environment.md)
+* [Using Atmosphere cloud computing](./04_cyverse_cloud_computing_with_Atmosphere.md)
+* [Understanding CyVerse help resources and policies](./05_cyverse_help_and_policies.md)
 
 Importantly, we **will not** cover some other key cyberinfrastructure components but you should be aware of them:
 
-* [Managing images with BISQUE]()
-* [Classroom-friendly bioinformatics with DNA Subway]()
-* [Developers resources with Agave API]()
+* [Managing images with BISQUE](http://www.cyverse.org/bisque)
+* [Classroom-friendly bioinformatics with DNA Subway](http://dnasubway.iplantcollaborative.org/)
+* [Developers resources with Agave API](http://agaveapi.co/)
+
+## Funding and Citations
+
+CyVerse is funded entirely by the National Science Foundation under Award Numbers DBI-0735191 and DBI-1265383.
+
+Please cite CyVerse appropriately when you make use of our resources, [CyVerse citation policy](http://www.cyverse.org/acknowledge-cite-cyverse)
 
 
 
