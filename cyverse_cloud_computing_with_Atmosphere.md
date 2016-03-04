@@ -4,18 +4,17 @@
 
 >**Tip:** To use Atmosphere, you must have an email address from an academic/governmental institution and request access to Atmosphere through the user portal.  To request access, login to user.iplantcollaborative.org and check to see if Atmosphere is listed under ‘My Services.’ If it is not, scroll down and click the “Request Access” button next to Atmosphere to complete a request form. ### Launching an Atmosphere instance
 
-1.	Login to Atmosphere 2.	Click **Launch New Instance** either on the navigation panel (left) or on the home screen.<br><img src="https://mcbios.readthedocs.org/en/latest/img/atmosphere_1.jpg", style="width:150px;height:180px;">   3.	In the search window, search and select the image you wish to use ( **Note:** Some images support a GUI Desktop and some are only accessible through the shell – check the description and/or tags)<br><img src="https://mcbios.readthedocs.org/en/latest/img/atmosphere_2.jpg", style="width:650px;height:350px;"> 4.	Click **Launch**; during the launch wizard you may name your instance, select the cloud to launch on, the size of the instance, and a project to associate this instance with. If you do not have an existing project, you must create one during this launch. Follow the launch wizard through to the end and click ‘**Launch Instance**’. Your instance should be ready in 10-20 minutes. <br><img src="https://mcbios.readthedocs.org/en/latest/img/atmosphere_3.jpg", style="width:300px;height:320px;"> 
+1.	Login to Atmosphere 2.	Click **Launch New Instance** either on the navigation panel (left) or on the home screen.<br><img src="https://mcbios.readthedocs.org/en/latest/img/atmosphere_1.jpg", style="width:150px;height:180px;">   3.	In the search window, search and select the image you wish to use ( **Note:** Some images support a GUI Desktop and some are only accessible through the shell – check the description and/or tags)<br><img src="https://mcbios.readthedocs.org/en/latest/img/atmosphere_2.jpg", style="width:450px;height:150px;"> 4.	Click **Launch**; during the launch wizard you may name your instance, select the cloud to launch on, the size of the instance, and a project to associate this instance with. If you do not have an existing project, you must create one during this launch. Follow the launch wizard through to the end and click ‘**Launch Instance**’. Your instance should be ready in 10-20 minutes. <br><img src="https://mcbios.readthedocs.org/en/latest/img/atmosphere_3.jpg", style="width:300px;height:320px;"> 
 
 ### Connecting to Atmosphere instance via SSH
 
-> **Tip:** Your Instance status must be ‘active’ in order for you to connect. Connect via SSH1.	Locate your Instance IP address in the Atmosphere control panel
+> **Tip:** Your Instance status must be ‘active’ in order for you to connect. Windows users can download [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) to connect via the terminal.Connect via SSH1.	Locate your Instance IP address in the Atmosphere control panel
 2.  Open a terminal (Mac/Linux) and connect
 ```
 $ ssh your_cyverse_username@cyverse.org
-```
-Windows users can download [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) to connect via the terminal.. 
+``` 
 3. You will be asked to save and RSA key to the list of known hosts, enter ‘yes’
-4. When prompted, enter your CyVerse password.<br><img src="https://mcbios.readthedocs.org/en/latest/img/atmosphere_4.jpg", style="width:300px;height:320px;"> 
+4. When prompted, enter your CyVerse password.<br><img src="https://mcbios.readthedocs.org/en/latest/img/atmosphere_4.jpg", style="width:600px;height:375px;"> 
 
 
 
