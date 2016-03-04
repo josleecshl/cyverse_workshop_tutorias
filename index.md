@@ -41,6 +41,14 @@ Importantly, we **will not** cover some other key cyberinfrastructure components
 |Example Science Applications|[Slides](./ppts_pdfs/example_science_applications.pdf)|
 |Genomics Workflows|[Brochure](./ppts_pdfs/genome_workflows.pdf)|
 
+### Utilities/software
+- Cyberduck Download Utility - [Link](https://cyberduck.io/)
+- Cyberduck profile - [Link](https://pods.iplantcollaborative.org/wiki/download/attachments/18188197/iPlant%20Data%20Store.cyberduckprofile?version=1&modificationDate=1436557522000&api=v2)
+- iCommands (mac) - [Link](https://www.irods.org/binaries/irods3.3.icmds.mac.intel.tar)
+- iCommands (linux x64) - [Link](http://www.iplantcollaborative.org/sites/default/files/irods/icommands.x86_64.tar.bz2)
+- VNC viewer - [Link](https://www.realvnc.com/download/viewer/)
+- PuTTY (windows)- [Link](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html)
+
 ## Funding and Citations
 
 CyVerse is funded entirely by the National Science Foundation under Award Numbers DBI-0735191 and DBI-1265383.
