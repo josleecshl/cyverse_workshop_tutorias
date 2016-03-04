@@ -102,24 +102,25 @@ iCommands is available for Mac and Linux. You must download the binaries and con
 In a terminal window, enter the following to initialize iCommands and your Data Store connection: iinit
 
 1. Initialize iCommands using the following command
-```
+
+   ```bash
 $ iinit
 ```
-2. You will then be asked to setup your account and will need to enter the following information:
+2. You will then be asked to setup your account and will need to enter the following information
 
-|Prompt|Entry|
+   |Prompt|Entry|
 |------|-----|
 |irodsHost|data.iplantcollaborative.org|
 |port|1247|
 |zone|iplant|
-|irodsUserName|your CyVerse username|
-|Current iRODS password|your CyVerse password|
+|irodsUserName|your iplant username|
+|Current iRODS password|your iplant password|
+3. Verify that you have connected to your iPlant Data Store; view the contents of your home directory using the following the *ils* command:
 
-3. Verify that you have connected to your Data Store; view the contents of your home directory using the following the *ils* command.
-
-```
+   ```bash
 $ ils
 ```
+
 
 ## Uploading and downloading with iCommands
 
