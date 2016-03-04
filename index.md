@@ -1,10 +1,9 @@
-# Get Started with CyVerse
-**Half-day workshop materials**
 
 
 ![](img/cyverse_rgb.jpg) 
 
 ## Welcome to CyVerse!
+**Half-day workshop materials**
 
 **CyVerse Vision:** Transforming science through data-driven discovery.<br>
 **CyVerse Mission:** Design, deploy, and expand a national cyberinfrastructure for life sciences research and train scientists in its use.<br>
