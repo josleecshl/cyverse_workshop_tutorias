@@ -21,7 +21,7 @@ In this guide we will cover brief tutorials and documentation that will get you 
 
 * [Account creation and setup](./cyverse_account_creation.md)
 * [Uploading, importing, and managing data](./cyverse_importing_data.md)
-* [Using Discovery Environment (web-interface to data, tools, and analysis)]()
+* [Using Discovery Environment (web-interface to data, tools, and analysis)](./cyverse_analyzing_data_with_Discovery_Environment.md)
 * [Using Atmosphere cloud computing]()
 * [Understanding CyVerse help resources and policies]()
 
