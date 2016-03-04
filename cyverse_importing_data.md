@@ -161,3 +161,10 @@ All of the instructions in this section will focus on the Data Console:
 ### Sharing with colleagues link in the CyVerse Discovery Environment
 
 **Use:** Share data with another CyVerse user by granting permission to read, write, or own files/folders 
+
+1. Click the <img src="https://mcbios.readthedocs.org/en/latest/img/colleagues_icon.jpg", style="width:15px;height:15px;"> icon or check-select a file(s), folder(s) you wish to share with another user; then either click ‘Begin Sharing’ on the right-hand Details menu or click Sharing and select via Discovery Environment.2.	In the “Manage Sharing” menu, under ‘Selected File(s)/Folder(s) the name of the files and folders you are currently sharing are displayed. Ensure the file you wish to share now is selected. <img src="https://mcbios.readthedocs.org/en/latest/img/manage_sharing.jpg", style="width:300px;height:170px;">3.	In the ‘search for users’ menu search for the CyVerse user you wish to share with by search for their name, or CyVerse username. You may also select ‘Choose from Collaborators’ which will bring up a list of people you have designated as collaborators.4.	Next, under ‘Permissions’ choose what permission you want to grant the person you are sharing this file with.
+5. Once you are finished, click Done to begin sharing. The user will be notified that a file has been shared with them. Files shared with you appear in the ‘Shared With Me’ top-level folder in the Data console.  #### Permission level chart|Permission Level|Read|Download/Save|Metadata|Rename|Move|Delete|
+|----------------|:--:|:-----------:|:------:|:----:|:------:|:----:|
+|Read|X|X|View|||
+|Write|X|X|Add/Edit|
+|Own|X|X|Add/Edit|X|X|X|
