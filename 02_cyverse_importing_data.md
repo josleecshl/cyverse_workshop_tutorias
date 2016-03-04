@@ -15,7 +15,7 @@ The CyVerse Data Store unifies all CyVerse cyberinfrastructure. In practical ter
 |Task|Recommendation|
 |----|--------------|
 |Upload or Download files (including large files, large numbers of files, and/or folders)|Use the Cyberduck data transfer application (for Windows, Mac)|
-|Share Data with other CyVerse users (files or folders) or create Public URLs to specific datasets|Use the Discovery Environment (any web browser)|
+|Share data with other CyVerse users (files or folders) or create Public URLs to specific datasets|Use the Discovery Environment (any web browser)|
 |Manage metadata for single files or large collections of files|Use the Discovery Environment (any web browser) or iCommands|
 |Write scripts or work in the terminal/shell to manage data|Use iCommands
  
@@ -38,13 +38,13 @@ Cyberduck is a user-friendly standalone application that can serve the majority 
 2. Double-click on the downloaded profile, Cyberduck should automatically start.  
 3. Verify iPlant Data Store is displayed in the first field.
 4. In the Nickname field, enter **data.iplantcollaborative.org – iRODS**
-5. Create a connection that uses your CyVerse user account for login (Optionally: you may create an anonymous connection to access public data without an iPlant user account - see full [CyVerse documentation](https://pods.iplantcollaborative.org/wiki/display/DS/Using+Cyberduck+for+Uploading+and+Downloading+to+the+Data+Store)
-6. In the populated URL field, verify **irods://data.iplantcollaborative.org** is displayed.
-7. In the Server field, enter **data.iplantcollaborative.org.**
-8. In the Port field, enter **1247**.
-9. In the Username field, enter your CyVerse user name.
+5. Create a connection that uses your CyVerse user account for login (Optionally: you may create an anonymous connection to access public data without an iPlant user account - see full [CyVerse documentation](https://pods.iplantcollaborative.org/wiki/display/DS/Using+Cyberduck+for+Uploading+and+Downloading+to+the+Data+Store))
+6. In the populated _URL_ field, verify **irods://data.iplantcollaborative.org** is displayed.
+7. In the _Server_ field, enter **data.iplantcollaborative.org.**
+8. In the _Port_ field, enter **1247**.
+9. In the _Username_ field, enter your CyVerse user name.
 10. Verify your username is added to the URL field (e.g.: irods://yourusername@data.iplantcollaborative.org.)
-11. In the More Options section, select Open multiple connections in the Transfer Files drop-down list.
+11. In the _More Options_ section, select **Open multiple connections** in the Transfer Files drop-down list.
 
 **Example completed Cyberduck configuration**<br>
 <img src="https://mcbios.readthedocs.org/en/latest/img/configured_cyberduck.jpg", style="width:350px;height:400px;">
@@ -59,7 +59,7 @@ Log in to Cyberduck using your CyVerse username and password. By default, your H
 
 or 
 
-- Click the Cyberduck File menu and then click Upload and select the file or folder to upload - the item is uploaded to your Home folder
+- Click the Cyberduck **File** menu and then click **Upload** and select the file or folder to upload - the item is uploaded to your Home folder
 
 #### Download from Data Store
 
@@ -67,11 +67,11 @@ or
 
 or 
 
-- Click the file or folder to download and select the Cyberduck File menu and then click Download - the file is downloaded to your default download folder. 
+- Select the file or folder to download and select the Cyberduck **File** menu and then click **Download** - the file is downloaded to your default download folder. 
 
 > **Tip:** To navigate to a different folder (for example, to download a file from the Community Data folder)
-   1. Click the Cyberduck Go menu and then click Go to Folder. 
-   2. Enter the path to the folder (you may want to copy the path to the folder displayed in the DE Data window's Viewing field).For example, to go to the Data Store Shared folder, enter **/iplant/home/shared**; Click **Go**. 
+    1. Click the Cyberduck Go menu and then click Go to Folder. 
+    2. Enter the path to the folder (you may want to copy the path to the folder displayed in the DE Data window's Viewing field).For example, to go to the Data Store Shared folder, enter **/iplant/home/shared**; Click **Go**. 
 
 **Cyberduck window connected to Data Store**<br>
 <img src="https://mcbios.readthedocs.org/en/latest/img/connected_cyberduck.jpg", style="width:350px;height:400px;">
@@ -79,7 +79,7 @@ or
 
 # Connecting to Data Store with iCommands
 
-iCommands is a collection of commands for Unix and Windows that are used in the iRODS system to interact with the CyVerse Data Store. Many commands are very similar to Unix utilities. For example, to list files and directories, you use `ls` in Linux, but in iCommands you use `ils`.
+iCommands is a collection of commands for Unix and Mac that are used in the iRODS system to interact with the CyVerse Data Store. Many commands are very similar to Unix utilities. For example, to list files and directories, you use `ls` in Linux, but in iCommands you use `ils`.
 
 While iCommands are great for all transfers and for automating tasks via scripts, they are the best choice for large files (2-100 GB each) and for bulk file transfers (many small files). For a comparison of the different methods of uploading and downloading data items
 

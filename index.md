@@ -30,6 +30,17 @@ Importantly, we **will not** cover some other key cyberinfrastructure components
 * [Classroom-friendly bioinformatics with DNA Subway](http://dnasubway.iplantcollaborative.org/)
 * [Developers resources with Agave API](http://agaveapi.co/)
 
+## Important Downloads
+
+|Topic|Resource|
+|-----|--------|
+|Workshop Intro|[Slides](./ppts_pdfs/workshop_intro.pdf)|
+|Data Store |[Slides](./ppts_pdfs/data_store.pdf)|
+|Discovery Environment|[Slides](./ppts_pdfs/discovery_environment.pdf)|
+|Atmosphere|[Slides](./ppts_pdfs/atmosphere.pdf)|
+|Example Science Applications|[Slides](./ppts_pdfs/example_science_applications.pdf)|
+|Genomics Workflows|[Brochure](./ppts_pdfs/genome_workflows.pdf)|
+
 ## Funding and Citations
 
 CyVerse is funded entirely by the National Science Foundation under Award Numbers DBI-0735191 and DBI-1265383.

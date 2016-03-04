@@ -12,10 +12,10 @@ A key feature of CyVerse cyberinfrastructure is that one set of credentials (you
 3. Check your email for an account confirmation link and follow the confirmation instructions. 
 
 > **Tips:** 
-* Registered using your .edu, .org, or .gov email address (access to some platforms may be restricted for non-institutional users)
-* Choose a short, easy-to-remember username.   Username must be lowercase and have at least 3 characters. First character must be a lowercase letter. May only contain lowercase letters, numbers, dashes and underscores (_). 
-* Choose a very secure password. Never give this password to anyone. 
-* Students can and should create their own accounts. 
+-  Register using your **.edu**, **.org**, or **.gov** email address (access to some platforms may be restricted for non-institutional users).<br>
+- Choose a short, easy-to-remember username.   Username must be lowercase and have at least 3 characters. First character must be a lowercase letter. May only contain lowercase letters, numbers, dashes and underscores (_). <br>
+- Choose a very secure password. Never give this password to anyone.<br> 
+- Students can and should create their own accounts. 
 
 
 ## Requesting access to additional CyVerse platforms and services
