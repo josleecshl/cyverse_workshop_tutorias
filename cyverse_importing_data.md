@@ -46,7 +46,7 @@ Cyberduck is a user-friendly standalone application that can serve the majority 
 10. Verify your username is added to the URL field (e.g.: irods://yourusername@data.iplantcollaborative.org.)
 11. In the More Options section, select Open multiple connections in the Transfer Files drop-down list.
 
-**Example completed Cyberduck configuration**
+**Example completed Cyberduck configuration**<br>
 <img src="https://mcbios.readthedocs.org/en/latest/img/configured_cyberduck.jpg", style="width:350px;height:400px;">
 
 ## Uploading and downloading from the Data Store with Cyberduck
@@ -73,7 +73,7 @@ or
    1. Click the Cyberduck Go menu and then click Go to Folder. 
    2. Enter the path to the folder (you may want to copy the path to the folder displayed in the DE Data window's Viewing field).For example, to go to the Data Store Shared folder, enter **/iplant/home/shared**; Click **Go**. 
 
-**Cyberduck window connected to Data Store**
+**Cyberduck window connected to Data Store**<br>
 <img src="https://mcbios.readthedocs.org/en/latest/img/connected_cyberduck.jpg", style="width:350px;height:400px;">
 
 
@@ -103,7 +103,7 @@ iCommands is available for Mac and Linux. You must download the binaries and con
 
 In a terminal window, enter the following to initialize iCommands and your Data Store connection.
 
-1. Initialize iCommands using the `iinit`command 
+1. Initialize iCommands using the `iinit` command 
 2. You will then be asked to setup your account and will need to enter the following information
 
 |Prompt|Entry|
