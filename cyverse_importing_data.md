@@ -8,14 +8,21 @@ The CyVerse Data Store unifies all CyVerse cyberinfrastructure. In practical ter
 - 100 GB allocation per user (you may [request additional storage](http://www.cyverse.org/content/increase-your-data-store-allocation))
 - Data are automatically backed up
 - Optimal transfer speeds 100GB transfer ~30 min. 
-- iRODS grid storage provides powerful data management tools for metadata and sharing## Quick recommendations|Task|Recommendation|
+- iRODS grid storage provides powerful data management tools for metadata and sharing
+
+## Quick recommendations
+|Task|Recommendation|
 |----|--------------|
 |Upload or Download files (including large files, large numbers of files, and/or folders)|Use the Cyberduck data transfer application (for Windows, Mac)|
-|Share Data with other CyVerse users (files or folders) or create Public URLs to specific datasets|Use the Discovery Environment (any web browser)||Manage metadata for single files or large collections of files|Use the Discovery Environment (any web browser) or iCommands|
-|Write scripts or work in the terminal/shell to manage data|Use iCommands 
+|Share Data with other CyVerse users (files or folders) or create Public URLs to specific datasets|Use the Discovery Environment (any web browser)|
+|Manage metadata for single files or large collections of files|Use the Discovery Environment (any web browser) or iCommands|
+|Write scripts or work in the terminal/shell to manage data|Use iCommands
+ 
 # Connecting to Data Store with Cyberduck
 
-Cyberduck is a user-friendly standalone application that can serve the majority of use cases for the majority of users. Feel free to upload any data you wish to analyze, especially in the context of the workshop. If you don’t have sample data, just upload any document as a test.## Downloading and configuring Cyberduck
+Cyberduck is a user-friendly standalone application that can serve the majority of use cases for the majority of users. Feel free to upload any data you wish to analyze, especially in the context of the workshop. If you don’t have sample data, just upload any document as a test.
+
+## Downloading and configuring Cyberduck
 
 ### Download Cyberduck
 
@@ -107,6 +114,7 @@ $ iinit
 |zone|iplant|
 |irodsUserName|your CyVerse username|
 |Current iRODS password|your CyVerse password|
+
 3. Verify that you have connected to your Data Store; view the contents of your home directory using the following the *ils* command.
 
 ```
@@ -144,8 +152,14 @@ The [Discovery Environment](http://www.cyverse.org/discovery-environment) is a p
 
 
 All of the instructions in this section will focus on the Data Console:
-<center><img src="https://mcbios.readthedocs.org/en/latest/img/data_icon.jpg", style="height:40px"></center>1.	Log into the Discovery Environment [DE Login](https://de.iplantcollaborative.org/de)2.	In the Data console, next to the file click the <img src="https://mcbios.readthedocs.org/en/latest/img/link_icon.jpg", style="height:15px"> icon or select a file you wish to share, then from the Share menu click via Public Link. **Note**, only individual files can be shared from a public link. 
+<center><img src="https://mcbios.readthedocs.org/en/latest/img/data_icon.jpg", style="height:40px"></center>
+
+1.	Log into the Discovery Environment [DE Login](https://de.iplantcollaborative.org/de)
+
+2.	In the Data console, next to the file click the <img src="https://mcbios.readthedocs.org/en/latest/img/link_icon.jpg", style="height:15px"> icon or select a file you wish to share, then from the Share menu click via Public Link. **Note**, only individual files can be shared from a public link. 
 3. In the “Manage Data Links” window, select the file you wish to share, and click Create. **Note:** The manage links menu will only display if you use the 'Share' menu, not the shortcut link icon. 
-<br><center><img src="https://mcbios.readthedocs.org/en/latest/img/manage_links_menu.jpg", style="height:100px"></center>  4. A new URL should appear beneath the file name. Click on this URL and the click on Copy in order to be presented with a window that will allow you to copy the URL to your clipboard. Anyone who you share this link with will be able to download the file.
-5. Deactivate a data link by selecting the file; from the Share menu click via Public Link. Clicking the<img src="https://mcbios.readthedocs.org/en/latest/img/deactivatelink_icon.jpg", style="height:15px"> icon next to the links you wish to inactivate. Once you deactivate the link, anyone with whom you shared it with will no longer be able to access that data.
+<br><center><img src="https://mcbios.readthedocs.org/en/latest/img/manage_links_menu.jpg", style="height:100px"></center>  
+4. A new URL should appear beneath the file name. Click on this URL and the click on Copy in order to be presented with a window that will allow you to copy the URL to your clipboard. Anyone who you share this link with will be able to download the file.
+5. Deactivate a data link by selecting the file; from the Share menu click via Public Link. Clicking the <img src="https://mcbios.readthedocs.org/en/latest/img/deactivatelink_icon.jpg", style="height:15px"> icon next to the links you wish to inactivate. Once you deactivate the link, anyone with whom you shared it with will no longer be able to access that data.
+
   
