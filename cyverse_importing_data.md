@@ -47,7 +47,7 @@ Cyberduck is a user-friendly standalone application that can serve the majority 
 11. In the More Options section, select Open multiple connections in the Transfer Files drop-down list.
 
 **Example completed Cyberduck configuration**
-![](./img/configured_cyberduck.jpg)
+<img src="https://mcbios.readthedocs.org/en/latest/img/configured_cyberduck.jpg", style="width:350px;height:400px;">
 
 ## Uploading and downloading from the Data Store with Cyberduck
 
@@ -74,7 +74,8 @@ or
    2. Enter the path to the folder (you may want to copy the path to the folder displayed in the DE Data window's Viewing field).For example, to go to the Data Store Shared folder, enter **/iplant/home/shared**; Click **Go**. 
 
 **Cyberduck window connected to Data Store**
-![](./img/connected_cyberduck.jpg)
+<img src="https://mcbios.readthedocs.org/en/latest/img/connected_cyberduck.jpg", style="width:350px;height:400px;">
+
 
 # Connecting to Data Store with iCommands
 
@@ -100,11 +101,9 @@ iCommands is available for Mac and Linux. You must download the binaries and con
 
 ### Configure iCommands
 
-In a terminal window, enter the following to initialize iCommands and your Data Store connection: iinit
+In a terminal window, enter the following to initialize iCommands and your Data Store connection.
 
-1. Initialize iCommands using the following command
-
-    $ iinit
+1. Initialize iCommands using the `iinit`command 
 2. You will then be asked to setup your account and will need to enter the following information
 
 |Prompt|Entry|
@@ -146,7 +145,7 @@ The [Discovery Environment](http://www.cyverse.org/discovery-environment) is a p
 
 ### Sharing with a data link in the CyVerse Discovery Environment
 
-
+**Use:** Create a link to share an individual file with anyone. 
 
 All of the instructions in this section will focus on the Data Console:
 <center><img src="https://mcbios.readthedocs.org/en/latest/img/data_icon.jpg", style="width:50px;height:50px;"></center>
@@ -159,3 +158,6 @@ All of the instructions in this section will focus on the Data Console:
 5. Deactivate a data link by selecting the file; from the Share menu click via Public Link. Clicking the <img src="https://mcbios.readthedocs.org/en/latest/img/deactivatelink_icon.jpg", style="width:20px;height:15px;"> icon next to the links you wish to inactivate. Once you deactivate the link, anyone with whom you shared it with will no longer be able to access that data.
 
   
+### Sharing with colleagues link in the CyVerse Discovery Environment
+
+**Use:** Share data with another CyVerse user by granting permission to read, write, or own files/folders 
