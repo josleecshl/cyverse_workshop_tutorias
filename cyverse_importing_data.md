@@ -95,9 +95,7 @@ iCommands is available for Mac and Linux. You must download the binaries and con
 In a terminal window, enter the following to initialize iCommands and your Data Store connection: iinit
 
 1. Initialize iCommands using the following command
-    ```bash
-$ iinit
-```
+        $ iinit
 2. You will then be asked to setup your account and will need to enter the following information
 
 |Prompt|Entry|
@@ -107,10 +105,9 @@ $ iinit
 |zone|iplant|
 |irodsUserName|your CyVerse username|
 |Current iRODS password|your CyVerse password|
-3. Verify that you have connected to your Data Store; view the contents of your home directory using the following the *ils* command:
-   ```bash
-$ ils
-```
+3. Verify that you have connected to your Data Store; view the contents of your home directory using the following the *ils* command:    
+        $ ils
+
 ## Uploading and downloading with iCommands
 
 ### Uploading to Data Store
@@ -142,7 +139,7 @@ The [Discovery Environment](http://www.cyverse.org/discovery-environment) is a p
 
 
 All of the instructions in this section will focus on the Data Console:
-<center><img src="./img/data_icon.jpg", style="width:50px"></center>1.	Log into the Discovery Environment [DE Login](https://de.iplantcollaborative.org/de)2.	In the Data console, next to the file click the <img src="./img/link_icon.jpg", style="height:15px"> icon or select a file you wish to share, then from the Share menu click via Public Link. **Note**, only individual files can be shared from a public link. 
+<center><img src="https://github.com/JasonJWilliamsNY/cyverse_mcbios_workshop/blob/master/img/data_icon.jpg", style="width:50px"></center>1.	Log into the Discovery Environment [DE Login](https://de.iplantcollaborative.org/de)2.	In the Data console, next to the file click the <img src="./img/link_icon.jpg", style="height:15px"> icon or select a file you wish to share, then from the Share menu click via Public Link. **Note**, only individual files can be shared from a public link. 
 3. In the “Manage Data Links” window, select the file you wish to share, and click Create. **Note:** The manage links menu will only display if you use the 'Share' menu, not the shortcut link icon. 
 <img src="./img/manage_links_menu.jpg", style="height:15px">  4. A new URL should appear beneath the file name. Click on this URL and the click on Copy in order to be presented with a window that will allow you to copy the URL to your clipboard. Anyone who you share this link with will be able to download the file.
 5. Deactivate a data link by selecting the file; from the Share menu click via Public Link. Clicking the <img src="./img/deactivatelink_icon.jpg", style="height:15px"> icon next to the links you wish to inactivate. Once you deactivate the link, anyone with whom you shared it with will no longer be able to access that data.
