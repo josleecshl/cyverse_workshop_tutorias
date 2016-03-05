@@ -4,6 +4,7 @@
 
 ## Welcome to CyVerse!
 **Half-day workshop materials**
+**Presenter:** Jason Williams, [williams@cshl.edu](mailto:williams@cshl.edu), twitter: [@JasonWilliamsNY](https://twitter.com/JasonWilliamsNY)
 
 **CyVerse Vision:** Transforming science through data-driven discovery.<br>
 **CyVerse Mission:** Design, deploy, and expand a national cyberinfrastructure for life sciences research and train scientists in its use.<br>
